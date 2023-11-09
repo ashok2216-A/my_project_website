@@ -895,7 +895,7 @@ div.text {
   -webkit-text-fill-color: transparent;
 }
 
-
+/* 
 :root {
   --clr-neon: blue;
   --clr-bg: lightblue;
@@ -926,7 +926,7 @@ div.text {
 /*   transition: background-color 100ms linear; */
 }
 
-.neon-button::before {
+/* .neon-button::before {
   pointer-events: none;
   content: '';
   position: absolute;
@@ -943,11 +943,11 @@ div.text {
 
 .neon-button:hover, .neon-button:focus {
 /*   background: var(--clr-neon); */
-  color: var(--clr-bg);
+/*   color: var(--clr-bg);
   text-shadow: none;
-}
+} */
 
-.neon-button::after {
+/* .neon-button::after {
   content: '';
   position: absolute;
   top: 0;
@@ -966,4 +966,4 @@ div.text {
 }
 .neon-button:hover::after, .neon-button:focus::after {
   opacity: 1;
-}
+} */ */ */
